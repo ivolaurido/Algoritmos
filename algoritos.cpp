@@ -15,4 +15,5 @@ d fmng
 
 	scanf(" ");
 	return 0;
+	printf("sali de aca negra olor a pata");
 }
